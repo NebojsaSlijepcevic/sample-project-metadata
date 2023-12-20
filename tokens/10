@@ -1,0 +1,25 @@
+{
+    "id": 10,
+    "image": "https://gateway.pinata.cloud/ipfs/QmU21taj9yao6zp9AxV6MFEXjFiyYhYHJCMt5sa1efdumk",
+    "token_id": "10",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Archer - Level1",
+    "description": "This NFT is my third Immutable zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
